@@ -33,83 +33,77 @@
 
 ##
 
----
-[![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
 <h3 align="left">🖥️ Technology Stack</h3>
 
 ##
 
+###
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=svg" height="30" alt="svg logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30" alt="chrome logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/slack/4A154B" height="30" alt="slack logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" height="45" alt="discord logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="instagram logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=svg" height="45" alt="svg logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="supabase logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="cloudflare logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="canva logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="45" alt="chrome logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="45" alt="npm logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/slack/4A154B" height="45" alt="slack logo"  />
 </div>
 
-##
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
+###
 
 #####
 
@@ -125,8 +119,6 @@
 
 #
 
----
-[![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
 
 #####
 
