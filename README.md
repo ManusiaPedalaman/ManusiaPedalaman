@@ -123,7 +123,7 @@
 #####
 
 <h3 align="left">💫 Random Words</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"  height="250" alt="Quote" />
 
 #####
 
