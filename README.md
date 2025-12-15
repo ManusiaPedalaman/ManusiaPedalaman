@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img height="500" src="img/AlanNuril.webp"  />
+  <img height="500" src="img/AlanNuril.jpg"  />
 </div>
 
 ######
