@@ -1,24 +1,18 @@
-
 <h1 align="center">⚜️Hello, I'm Alan Nuril</h1>
 
 ###
 
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=User+Interface+Crafter;Creative+Web+Architect;Design+Code+Bridge&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lexend&pause=1000&width=435&lines=User+Interface+Crafter;Creative+Web+Architect;Design+Code+Bridge&center=true" alt="Typing SVG" />
   </a>
 </div>
-
-
-
 
 <div align="center">
   <img height="500" src="img/AlanNuril.webp"  />
 </div>
 
 ######
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
@@ -119,13 +113,11 @@
 
 #
 
-
-#####
-
 <h3 align="left">💫 Random Words</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"  height="250" alt="Quote" />
 
-#####
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="100%" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManusiaPedalaman/ManusiaPedalaman/output/pacman-contribution-graph-dark.svg">
@@ -138,8 +130,6 @@
 <img src="https://raw.githubusercontent.com/ManusiaPedalaman/ManusiaPedalaman/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
@@ -169,9 +159,5 @@
 ###
 
 <div style="width: 100%;">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&text=Thanks%20for%20stopping%20by!&desc=Feel%20free%20to%20explore%20my%20repositories%20and%20see%20what%20l've%20been%20building&fontSize=50&fontAlign=50&fontAlignY=38&descSize=20&descAlign=50&descAlignY=60&fontColor=ffffff&color=0:571549,100:9F6211" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&text=Thanks%20for%20stopping%20by!&desc=Feel%20free%20to%20explore%20my%20repositories%20and%20see%20what%20l've%20been%20building&fontSize=50&fontAlign=50&fontAlignY=38&descSize=20&descAlign=50&descAlignY=60&fontColor=ffffff&color=0:571549,100:9F6211&fontFace=Lexend" />
 </div>
-
-###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
