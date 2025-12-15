@@ -1,79 +1,185 @@
+
+<h1 align="center">⚜️Hello, I'm Alan Nuril</h1>
+
+###
+
+
 <div align="center">
-
-  ## ⚜️ Hello World, I'm Alan Nuril
-  
-  <img src="img/AlanNuril.webp" alt="Alan Nuril" width="150" style="border-radius: 50%;" />
-
-  <br/><br/>
-
-  ### 🌐 Socials
-  
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pak_d2000_71790)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Alan%20Nuril)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sungguh_si.alan)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nuril-09b925399/)
-  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alannuklir) 
-
-  <br/><br/>
-
-  ### 💻 Tech Stack
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-  <br/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-
-  <br/><br/>
-
-  ### 📊 GitHub Stats
-  
-  ![](https://github-readme-stats.vercel.app/api?username=ManusiaPedalaman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-  <br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=ManusiaPedalaman&theme=tokyonight&hide_border=false)
-  <br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManusiaPedalaman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  <br/><br/>
-
-  ### ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-  <br/><br/>
-
-  <a href="https://spotify.com">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Alan%20Nuklir&count=5&unique=false" alt="Spotify recently played" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=User+Interface+Crafter;Creative+Web+Architect;Design+Code+Bridge&center=true" alt="Typing SVG" />
   </a>
-
-  <br/><br/>
-
-  ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=ManusiaPedalaman&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-  <br/><br/>
-
-  [![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&section=footer&reversal=false&text=Thanks%20for%20stopping%20by!%20Feel%20free%20to%20explore%20my%20repositories%20and%20see%20what%20I've%20been%20building.&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+
+
+
+<div align="center">
+  <img height="500" src="img/AlanNuril.webp"  />
+</div>
+
+######
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
+
+####
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ManusiaPedalaman.ManusiaPedalaman&right_color=yellow&left_text=STARS"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ManusiaPedalaman.ManusiaPedalaman&left_text=FOLLOWERS"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ManusiaPedalaman.ManusiaPedalaman&right_color=orange&left_text=PROFILE%20VIEWS"  />
+</div>
+
+##
+
+---
+[![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+<h3 align="left">🖥️ Technology Stack</h3>
+
+##
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=svg" height="30" alt="svg logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30" alt="chrome logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/slack/4A154B" height="30" alt="slack logo"  />
+</div>
+
+##
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
+
+#####
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+##
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManusiaPedalaman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManusiaPedalaman&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="languages graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ManusiaPedalaman&theme=tokyonight&hide_border=false" height="170" alt="languages graph"  />
+</div>
+
+#
+
+---
+[![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
+
+#####
+
+<h3 align="left">💫 Random Words</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+
+#####
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManusiaPedalaman/ManusiaPedalaman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManusiaPedalaman/ManusiaPedalaman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ManusiaPedalaman/ManusiaPedalaman/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/ManusiaPedalaman/ManusiaPedalaman/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=ManusiaPedalaman&icon=0&color=1)](https://visitcount.itsvg.in)
+
+#####
+
+<h3 align="left">🌐 Social Media :</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribbble logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="visualstudio logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="slack logo"  />
+</div>
+
+###
+
+###
+
+<div style="width: 100%;">
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&text=Thanks%20for%20stopping%20by!&desc=Feel%20free%20to%20explore%20my%20repositories%20and%20see%20what%20l've%20been%20building&fontSize=50&fontAlign=50&fontAlignY=38&descSize=20&descAlign=50&descAlignY=60&fontColor=ffffff&color=0:571549,100:9F6211" />
+</div>
+
+###
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
