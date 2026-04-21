@@ -20,10 +20,20 @@
 ####
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ManusiaPedalaman.ManusiaPedalaman&right_color=yellow&left_text=STARS"  />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ManusiaPedalaman.ManusiaPedalaman&left_text=FOLLOWERS"  />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ManusiaPedalaman.ManusiaPedalaman&right_color=orange&left_text=PROFILE%20VIEWS"  />
+  <!-- 1. Real-time GitHub Repository Stars -->
+  <a href="https://github.com/ManusiaPedalaman/DaTabel/stargazers">
+    <img src="https://img.shields.io/github/stars/ManusiaPedalaman/DaTabel?label=STARS&color=yellow&style=flat" alt="GitHub Repo Stars" />
+  </a>
+
+  <!-- 2. Real-time GitHub User Followers -->
+  <a href="https://github.com/ManusiaPedalaman?tab=followers">
+    <img src="https://img.shields.io/github/followers/ManusiaPedalaman?label=FOLLOWERS&color=blue&style=flat" alt="GitHub Followers" />
+  </a>
+
+  <!-- 3. Real-time Repository Views (Pengunjung Halaman Ini) -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ManusiaPedalaman.DaTabel&right_color=orange&left_text=VIEWS" alt="Repository Views" />
 </div>
+
 
 ##
 
